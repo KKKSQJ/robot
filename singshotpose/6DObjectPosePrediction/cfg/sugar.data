@@ -1,0 +1,14 @@
+train  = LINEMOD/sugar/train.txt
+valid  = LINEMOD/sugar/test.txt
+backup = backup/sugar
+mesh = LINEMOD/sugar/sugar.ply
+tr_range = LINEMOD/sugar/training_range.txt
+name = sugar
+diam = 0.237222
+gpus = 0
+width = 640
+height = 480
+fx = 384.1828
+fy = 383.7048
+u0 = 315.2687
+v0 = 239.4176

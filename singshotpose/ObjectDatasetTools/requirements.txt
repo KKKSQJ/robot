@@ -1,0 +1,14 @@
+# pip install -r requirements.txt
+
+numpy
+pypng
+pyrealsense2
+json
+logging
+opencv-python
+opencv-contrib-python
+opencv-contrib-python-headless
+pykdtree
+trimesh
+time
+open3d
